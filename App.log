@@ -1,0 +1,48 @@
+трав. 17, 2021 11:23:40 ДП org.example.App divide
+INFO: First Number: 2
+трав. 17, 2021 11:23:41 ДП org.example.App divide
+INFO: Second Number: 3
+трав. 17, 2021 11:23:56 ДП org.example.App divide
+INFO: First Number: 5
+трав. 17, 2021 11:23:57 ДП org.example.App divide
+SEVERE: For input string: ""
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:68)
+	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at org.example.App.divide(App.java:41)
+	at org.example.App.main(App.java:67)
+
+трав. 17, 2021 11:25:15 ДП org.example.App divide
+INFO: First Number: 4
+трав. 17, 2021 11:25:16 ДП org.example.App divide
+INFO: Second Number: 0
+трав. 17, 2021 11:25:16 ДП org.example.App divide
+SEVERE: / by zero
+java.lang.ArithmeticException: / by zero
+	at org.example.App.divide(App.java:44)
+	at org.example.App.main(App.java:67)
+
+трав. 17, 2021 11:25:55 ДП org.example.App divide
+INFO: First Number: 3
+трав. 17, 2021 11:25:57 ДП org.example.App divide
+INFO: Second Number: 4
+трав. 17, 2021 11:26:04 ДП org.example.App divide
+INFO: First Number: 4
+трав. 17, 2021 11:26:05 ДП org.example.App divide
+INFO: Second Number: 0
+трав. 17, 2021 11:26:05 ДП org.example.App divide
+SEVERE: / by zero
+java.lang.ArithmeticException: / by zero
+	at org.example.App.divide(App.java:44)
+	at org.example.App.main(App.java:67)
+трав. 17, 2021 11:32:00 ДП org.example.App divide
+INFO: First Number: 4
+трав. 17, 2021 11:32:00 ДП org.example.App divide
+INFO: Second Number: 0
+трав. 17, 2021 11:32:01 ДП org.example.App divide
+SEVERE: / by zero
+java.lang.ArithmeticException: / by zero
+	at org.example.App.divide(App.java:44)
+	at org.example.App.main(App.java:67)
+
