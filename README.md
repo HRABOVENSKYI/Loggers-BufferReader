@@ -1,4 +1,4 @@
-# Loggers-BufferReader
+# Loggers-BufferReader-Exceptions
 * BufferReader and InputStreamReader for reading user input
 * Logger for writing logs to a file (App.log)
 * FileHandler in static init block for creating App.log file once program is started
